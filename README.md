@@ -2,7 +2,9 @@
 
 This is the source code for an article I wrote about adding internationalization to a Vue application. You can [read the article here](https://medium.com/p/d9cfdcabb03b/).
 
-In the article I show how to take the default app created from the @vue/cli and add internationalization to it. Here is what it looks like:
+In the article I show how to take the default app created from the @vue/cli and add internationalization to it. 
+Here is what it looks like:  
+  
 ![](https://github.com/ratracegrad/vue-internationalization/blob/master/screenshots/vue.gif)
  
 ## Project setup
